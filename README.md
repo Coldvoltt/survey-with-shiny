@@ -25,4 +25,8 @@ Set the path to the JSON file containing the service account key in the Shiny ap
 Configure necessary parameters for Google Sheets access.
 
 ### Interact with the App:
-Open your web browser and navigate to here [link to dashboard]("https://paul-alexander.shinyapps.io/surveyApp/")
+Open your web browser and navigate to here [link to dashboard](https://paul-alexander.shinyapps.io/surveyApp/)  
+Fill in any details and confirm that it has updated on the google sheet here [google sheet](https://docs.google.com/spreadsheets/d/1qbZkaKLLlEMGkkrlkdmY6tR9Wow5TFOevmLK4t3nBe4/edit#gid=0)
+
+## Contribution:
+Contributions to enhance the app or resolve issues are welcome. If you find any bugs or want to add new features, feel free to submit a pull request or create an issue.
